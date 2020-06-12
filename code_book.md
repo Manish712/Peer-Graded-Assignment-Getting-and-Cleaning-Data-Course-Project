@@ -34,4 +34,4 @@ tidy_set - merged test set and train set
 
 tidy_mean_std - data set with only measurements on the mean and standard deviation for each measurement
 
-tidy_avg - independent tidy data set with the average of each variable for each activity and each subject. 
+tidy_avg - independent tidy data set with the average of each variable for each activity and each  subject.
