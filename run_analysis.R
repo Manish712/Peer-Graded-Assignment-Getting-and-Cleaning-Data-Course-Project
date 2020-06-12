@@ -4,7 +4,7 @@
 
 # Read feature list and activity names
 features_list <- read.table("features.txt", col.names = c("no","features"))
-activity <- read.table("activity_labels.txt", col.names = c("label", "activity"))
+activity <-read.table("activity_labels.txt", col.names = c("label", "activity"))
 
 
 # Read test dataset and combine into one dataframe
